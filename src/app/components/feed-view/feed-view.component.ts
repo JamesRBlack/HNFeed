@@ -13,7 +13,7 @@ export class FeedViewComponent implements OnInit {
 
   sortOptions: any[];
 
-  sortKey: string;
+  searchQuery: string;
 
   sortField: string;
 

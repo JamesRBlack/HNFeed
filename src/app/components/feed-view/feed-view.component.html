@@ -12,11 +12,9 @@
     <ng-template let-posts pTemplate="listItem">
       <div class="p-col-12">
         <div class="product-list-item">
-          <img [src]="'assets/showcase/images/demo/product/' + posts.image" [alt]="posts.name"/>
           <div class="product-list-detail">
-            <div class="product-name">{{posts.title}}</div>
-            <div class="product-description">{{posts.description}}</div>
-            <i class="pi pi-tag product-category-icon"></i><span class="product-category">{{posts.category}}</span>
+            <div class="product-name">Title: {{posts.title}}</div>
+            <div class="product-description">Author: {{posts.author}}</div>
           </div>
         </div>
       </div>

@@ -10,11 +10,14 @@ import {InputTextModule} from 'primeng/inputtext';
 import {ButtonModule} from 'primeng/button';
 import {RatingModule} from 'primeng/rating';
 import {DropdownModule} from 'primeng/dropdown';
+import { SearchBarComponent } from './components/search-bar/search-bar.component';
+import {FormsModule} from '@angular/forms';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FeedViewComponent
+    FeedViewComponent,
+    SearchBarComponent
   ],
   imports: [
     BrowserAnimationsModule,
@@ -24,7 +27,8 @@ import {DropdownModule} from 'primeng/dropdown';
     InputTextModule,
     ButtonModule,
     RatingModule,
-    DropdownModule
+    DropdownModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
