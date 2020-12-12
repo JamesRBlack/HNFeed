@@ -17,7 +17,7 @@ export class SearchBarComponent implements OnInit {
   }
 
   search(): any {
-    this.searchEvent.emit(this.searchQuery);
+    this.searchEvent.emit(`/search?query=${this.searchQuery}&tags=story`);
   }
 
 

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {FeedService} from '../../services/feed.service';
 import {FeedItem} from '../../model/feed-item';
 import {Feed} from '../../model/feed';
@@ -9,7 +9,7 @@ import {Feed} from '../../model/feed';
   styleUrls: ['./feed-view.component.css']
 })
 export class FeedViewComponent implements OnInit {
-  posts: Array<FeedItem>;
+  @Input() posts: Array<FeedItem>;
   searchString = '/search_by_date?tags=story';
 
   constructor(private feedService: FeedService) { }
