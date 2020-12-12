@@ -1,4 +1,5 @@
 <span class="p-input-icon-left searchBox">
     <i class="pi pi-search"></i>
-    <input type="text" style="width: 100%" pInputText placeholder="Search" [(ngModel)]="searchQuery" />
+    <input type="text" style="width: 80%" pInputText placeholder="Search" [(ngModel)]="searchQuery" />
+    <button pButton (click)="search()" type="button" label="Search" style="margin-left: 3%"></button>
 </span>

@@ -10,38 +10,13 @@ import {Feed} from '../../model/feed';
 })
 export class FeedViewComponent implements OnInit {
   posts: Array<FeedItem>;
-
-  sortOptions: any[];
-
-  searchQuery: string;
-
-  sortField: string;
-
-  sortOrder: number;
+  searchString = '/search_by_date?tags=story';
 
   constructor(private feedService: FeedService) { }
 
   ngOnInit(): void {
-    this.feedService.getPosts().subscribe((response: Feed) => {
+    this.feedService.getPosts(this.searchString).subscribe((response: Feed) => {
       this.posts = response.hits;
     }, error => console.log('Error fetching stories'));
-
-    this.sortOptions = [
-      {label: 'Newest First', value: '!year'},
-      {label: 'Oldest First', value: 'year'},
-      {label: 'Brand', value: 'brand'}
-    ];
-  }
-  onSortChange(event): void {
-    const value = event.value;
-
-    if (value.indexOf('!') === 0) {
-      this.sortOrder = -1;
-      this.sortField = value.substring(1, value.length);
-    }
-    else {
-      this.sortOrder = 1;
-      this.sortField = value;
-    }
   }
 }

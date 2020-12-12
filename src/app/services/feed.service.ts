@@ -13,8 +13,8 @@ export class FeedService {
 
   constructor(private http: HttpClient) { }
 
-  getPosts(): Observable<Feed> {
-    return this.http.get(`${this.baseUrl}/search_by_date?tags=story`).pipe(map((data: Feed) => {
+  getPosts(searchString): Observable<Feed> {
+    return this.http.get(`${this.baseUrl}${searchString}`).pipe(map((data: Feed) => {
       return data;
     }));
   }
