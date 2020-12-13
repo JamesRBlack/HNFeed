@@ -1,5 +1,5 @@
 import { AppPage } from './app.po';
-import {browser, by, element, logging} from 'protractor';
+import {browser, by, element, logging, protractor} from 'protractor';
 
 describe('workspace-project App', () => {
   let page: AppPage;
@@ -17,6 +17,22 @@ describe('workspace-project App', () => {
     await page.navigateTo();
     element(by.id('searchBox')).sendKeys('James Test');
     expect(await page.getSearchText()).toEqual('James Test');
+  });
+
+  it('should search for results', async () => {
+    const EC = protractor.ExpectedConditions;
+    await page.navigateTo();
+
+    const searchBox = element(by.id('searchBox'));
+    browser.wait(EC.presenceOf(searchBox));
+    searchBox.sendKeys('James Test');
+
+    const searchButton = element(by.id('searchButton'));
+    browser.wait(EC.elementToBeClickable(searchButton), 5000);
+    searchButton.sendKeys('James Test');
+
+    element.all(by.className('product-list-item')).get(0);
+    expect(element.all(by.className('product-list-item'))).toBeGreaterThan(0);
   });
 
   afterEach(async () => {
