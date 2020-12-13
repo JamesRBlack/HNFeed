@@ -26,5 +26,16 @@ describe('FeedService', () => {
       const feedView = new AppComponent(service);
       feedView.getSearchedPosts('test');
       expect(feedView.posts.length).toEqual(20);
+      expect(feedView.posts[0].created_at).toBe('2020-12-13T04:16:13.000Z');
+  });
+
+  it('should return HN feed search query results', () => {
+    const data: any = require('../../assets/Mock/test-data2.json');
+    spyOn(service, 'getPosts').and.returnValue(of(data));
+
+    const feedView = new AppComponent(service);
+    feedView.getSearchedPosts('test');
+    expect(feedView.posts.length).toEqual(20);
+    expect(feedView.posts[0].created_at).toBe('2012-03-23T00:40:39.000Z');
   });
 });
