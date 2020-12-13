@@ -16,7 +16,7 @@ This app acts as a feed and query web app for the popular hacker news article ag
 The two endpoints used for this are http://hn.algolia.com/api/v1/search_by_date?tags=story on initial load which will retrieve the latest stories and http://hn.algolia.com/api/v1/search?query=foo&tags=story which will retrieve the latest stories by search query.  
 
 ## Running unit tests
-
+Most tests are located in FeedService class as this is where most of the processing of data happens.
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
