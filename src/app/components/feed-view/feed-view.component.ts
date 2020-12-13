@@ -19,4 +19,8 @@ export class FeedViewComponent implements OnInit {
       this.posts = response.hits;
     }, error => console.log('Error fetching stories'));
   }
+
+  checkRowIsEven(rowIndex): boolean {
+    return rowIndex % 2 === 0;
+  }
 }

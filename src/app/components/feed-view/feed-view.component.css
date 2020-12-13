@@ -1,3 +1,11 @@
 .searchBox {
   width: 100%;
 }
+
+.ui-datatable-odd {
+  background: #ffffff;
+}
+
+.ui-datatable-even {
+  background: #F2F5F9;
+}

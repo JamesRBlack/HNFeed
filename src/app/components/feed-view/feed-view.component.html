@@ -8,8 +8,8 @@
                 </span>
       </div>
     </ng-template>
-    <ng-template let-posts pTemplate="listItem">
-      <div class="p-col-12">
+    <ng-template let-posts let-i="rowIndex" pTemplate="listItem" >
+      <div class="p-col-12" [ngClass]="{'ui-datatable-even': checkRowIsEven(i), 'ui-datatable-odd': checkRowIsEven(i)}">
         <div class="product-list-item">
           <div class="product-list-detail p-grid">
             <div class="p-col-10">
