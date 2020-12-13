@@ -8,4 +8,9 @@ export class AppPage {
   async getTitleText(): Promise<string> {
     return browser.getTitle();
   }
+
+  async getSearchText(): Promise<string> {
+    return element(by.id('searchBox')).getAttribute('value');
+  }
+
 }

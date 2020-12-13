@@ -1,5 +1,5 @@
 import { AppPage } from './app.po';
-import { browser, logging } from 'protractor';
+import {browser, by, element, logging} from 'protractor';
 
 describe('workspace-project App', () => {
   let page: AppPage;
@@ -11,6 +11,12 @@ describe('workspace-project App', () => {
   it('should display page title', async () => {
     await page.navigateTo();
     expect(await page.getTitleText()).toEqual('HNFeed');
+  });
+
+  it('should type text in textbox', async () => {
+    await page.navigateTo();
+    element(by.id('searchBox')).sendKeys('James Test');
+    expect(await page.getSearchText()).toEqual('James Test');
   });
 
   afterEach(async () => {
