@@ -1,10 +1,8 @@
-import { TestBed } from '@angular/core/testing';
+import {TestBed} from '@angular/core/testing';
 
-import { FeedService } from './feed.service';
+import {FeedService} from './feed.service';
 import {HttpClientTestingModule} from '@angular/common/http/testing';
 import {of} from 'rxjs';
-import {Feed} from '../model/feed';
-import {FeedViewComponent} from '../components/feed-view/feed-view.component';
 import {AppComponent} from '../app.component';
 
 describe('FeedService', () => {
