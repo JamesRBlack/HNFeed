@@ -29,7 +29,7 @@ describe('workspace-project App', () => {
 
     const searchButton = element(by.id('searchButton'));
     browser.wait(EC.elementToBeClickable(searchButton), 5000);
-    searchButton.sendKeys('James Test');
+    searchButton.click();
 
     element.all(by.className('product-list-item')).get(0);
     expect(element.all(by.className('product-list-item'))).toBeGreaterThan(0);
