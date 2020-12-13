@@ -1,0 +1,884 @@
+{
+  "hits": [
+    {
+      "created_at": "2012-03-23T00:40:39.000Z",
+      "title": "Show HN: This up votes itself",
+      "url": "http://news.ycombinator.com/vote?for=3742902&dir=up&whence=%6e%65%77%65%73%74",
+      "author": "olalonde",
+      "points": 3381,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 83,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1332463239,
+      "relevancy_score": 3819,
+      "_tags": [
+        "story",
+        "author_olalonde",
+        "story_3742902",
+        "show_hn"
+      ],
+      "objectID": "3742902",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: This up votes <em>it</em>self",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "http://news.ycombinator.com/vote?for=3742902&dir=up&whence=%6e%65%77%65%73%74",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "olalonde",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-09-25T08:39:04.000Z",
+      "title": "Chrome 69 will keep Google Cookies when you tell it to delete all cookies",
+      "url": "https://twitter.com/ctavan/status/1044282084020441088",
+      "author": "jwildeboer",
+      "points": 2364,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 810,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1537864744,
+      "relevancy_score": 8388,
+      "_tags": [
+        "story",
+        "author_jwildeboer",
+        "story_18064537"
+      ],
+      "objectID": "18064537",
+      "_highlightResult": {
+        "title": {
+          "value": "Chrome 69 will keep Google Cookies when you tell <em>it</em> to delete all cookies",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://twitter.com/ctavan/status/1044282084020441088",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jwildeboer",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-07-01T16:34:24.000Z",
+      "title": "Oppose the Earn IT Act",
+      "url": "https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/",
+      "author": "joeyespo",
+      "points": 2229,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 543,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1593621264,
+      "_tags": [
+        "story",
+        "author_joeyespo",
+        "story_23703367"
+      ],
+      "objectID": "23703367",
+      "_highlightResult": {
+        "title": {
+          "value": "Oppose the Earn <em>IT</em> Act",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://foundation.mozilla.org/en/campaigns/oppose-earn-<em>it</em>-act/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "joeyespo",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-06-17T06:11:43.000Z",
+      "title": "Mazda is purging touchscreens from its vehicles",
+      "url": "https://www.motorauthority.com/news/1121372_why-mazda-is-purging-touchscreens-from-its-vehicles",
+      "author": "meteor333",
+      "points": 2220,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 951,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1560751903,
+      "relevancy_score": 8898,
+      "_tags": [
+        "story",
+        "author_meteor333",
+        "story_20200335"
+      ],
+      "objectID": "20200335",
+      "_highlightResult": {
+        "title": {
+          "value": "Mazda is purging touchscreens from <em>it</em>s vehicles",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://www.motorauthority.com/news/1121372_why-mazda-is-purging-touchscreens-from-<em>it</em>s-vehicles",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "meteor333",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-06-22T18:32:26.000Z",
+      "title": "Apple announces it will switch to its own processors for future Macs",
+      "url": "https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020",
+      "author": "djrogers",
+      "points": 1869,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1432,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1592850746,
+      "_tags": [
+        "story",
+        "author_djrogers",
+        "story_23603866"
+      ],
+      "objectID": "23603866",
+      "_highlightResult": {
+        "title": {
+          "value": "Apple announces <em>it</em> will switch to <em>it</em>s own processors for future Macs",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "djrogers",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-18T22:10:14.000Z",
+      "title": "It’s Time to Build",
+      "url": "https://a16z.com/2020/04/18/its-time-to-build/",
+      "author": "jger15",
+      "points": 1820,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1008,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587247814,
+      "_tags": [
+        "story",
+        "author_jger15",
+        "story_22911533"
+      ],
+      "objectID": "22911533",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>It</em>’s Time to Build",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://a16z.com/2020/04/18/<em>it</em>s-time-to-build/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "jger15",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-02-13T21:47:09.000Z",
+      "title": "Heroku's Ugly Secret: The story of how the cloud-king turned its back on Rails",
+      "url": "http://rapgenius.com/James-somers-herokus-ugly-secret-lyrics",
+      "author": "tomlemon",
+      "points": 1715,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 426,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1360792029,
+      "relevancy_score": 4450,
+      "_tags": [
+        "story",
+        "author_tomlemon",
+        "story_5215884"
+      ],
+      "objectID": "5215884",
+      "_highlightResult": {
+        "title": {
+          "value": "Heroku's Ugly Secret: The story of how the cloud-king turned <em>it</em>s back on Rails",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "http://rapgenius.com/James-somers-herokus-ugly-secret-lyrics",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "tomlemon",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-09-29T19:27:58.000Z",
+      "title": "It’s time to give Firefox another chance",
+      "url": "https://techcrunch.com/2017/09/29/its-time-to-give-firefox-another-chance/",
+      "author": "uladzislau",
+      "points": 1674,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 712,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1506713278,
+      "relevancy_score": 7689,
+      "_tags": [
+        "story",
+        "author_uladzislau",
+        "story_15368353"
+      ],
+      "objectID": "15368353",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>It</em>’s time to give Firefox another chance",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://techcrunch.com/2017/09/29/<em>it</em>s-time-to-give-firefox-another-chance/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "uladzislau",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-12-11T14:30:15.000Z",
+      "title": "Learning at work is work, and we must make space for it",
+      "url": "https://sloanreview.mit.edu/article/learning-for-a-living/",
+      "author": "sarapeyton",
+      "points": 1673,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 453,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1576074615,
+      "_tags": [
+        "story",
+        "author_sarapeyton",
+        "story_21762640"
+      ],
+      "objectID": "21762640",
+      "_highlightResult": {
+        "title": {
+          "value": "Learning at work is work, and we must make space for <em>it</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://sloanreview.mit.edu/article/learning-for-a-living/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "sarapeyton",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-01-21T08:33:02.000Z",
+      "title": "Tricks to start working despite not feeling like it",
+      "url": "https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it",
+      "author": "vitabenes",
+      "points": 1636,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 368,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1579595582,
+      "_tags": [
+        "story",
+        "author_vitabenes",
+        "story_22105229"
+      ],
+      "objectID": "22105229",
+      "_highlightResult": {
+        "title": {
+          "value": "Tricks to start working despite not feeling like <em>it</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-<em>it</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "vitabenes",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-08-11T14:03:56.000Z",
+      "title": "Mozilla lays off 250 employees while it refocuses on commercial products",
+      "url": "https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/",
+      "author": "rebelwebmaster",
+      "points": 1602,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1215,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1597154636,
+      "_tags": [
+        "story",
+        "author_rebelwebmaster",
+        "story_24120336"
+      ],
+      "objectID": "24120336",
+      "_highlightResult": {
+        "title": {
+          "value": "Mozilla lays off 250 employees while <em>it</em> refocuses on commercial products",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "rebelwebmaster",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-03-27T14:18:52.000Z",
+      "title": "Zoom needs to clean up its privacy act",
+      "url": "https://blogs.harvard.edu/doc/2020/03/27/zoom/",
+      "author": "seapunk",
+      "points": 1597,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 509,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1585318732,
+      "_tags": [
+        "story",
+        "author_seapunk",
+        "story_22703000"
+      ],
+      "objectID": "22703000",
+      "_highlightResult": {
+        "title": {
+          "value": "Zoom needs to clean up <em>it</em>s privacy act",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://blogs.harvard.edu/doc/2020/03/27/zoom/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "seapunk",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-06-21T00:45:59.000Z",
+      "title": "Firefox is back. It's time to give it a try",
+      "url": "https://mobile.nytimes.com/2018/06/20/technology/personaltech/firefox-chrome-browser-privacy.html",
+      "author": "MilnerRoute",
+      "points": 1558,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 722,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1529541959,
+      "relevancy_score": 8199,
+      "_tags": [
+        "story",
+        "author_MilnerRoute",
+        "story_17361168"
+      ],
+      "objectID": "17361168",
+      "_highlightResult": {
+        "title": {
+          "value": "Firefox is back. <em>It</em>'s time to give <em>it</em> a try",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://mobile.nytimes.com/2018/06/20/technology/personaltech/firefox-chrome-browser-privacy.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "MilnerRoute",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-03-31T04:15:18.000Z",
+      "title": "It's time to head back to RSS?",
+      "url": "https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/",
+      "author": "kawera",
+      "points": 1501,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 491,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1522469718,
+      "relevancy_score": 8038,
+      "_tags": [
+        "story",
+        "author_kawera",
+        "story_16721690"
+      ],
+      "objectID": "16721690",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>It</em>'s time to head back to RSS?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "kawera",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-08-30T17:11:55.000Z",
+      "title": "A camera that snaps a GIF and ejects a cartridge that displays it",
+      "url": "http://imgur.com/gallery/CG9w4",
+      "author": "wyldfire",
+      "points": 1480,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 296,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1504113115,
+      "relevancy_score": 7635,
+      "_tags": [
+        "story",
+        "author_wyldfire",
+        "story_15133919"
+      ],
+      "objectID": "15133919",
+      "_highlightResult": {
+        "title": {
+          "value": "A camera that snaps a GIF and ejects a cartridge that displays <em>it</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "http://imgur.com/gallery/CG9w4",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "wyldfire",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-10-16T11:23:39.000Z",
+      "title": "AWS forked my project and launched it as its own service",
+      "url": "https://twitter.com/tim_nolet/status/1317061818574082050",
+      "author": "tnolet",
+      "points": 1466,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 637,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1602847419,
+      "_tags": [
+        "story",
+        "author_tnolet",
+        "story_24799660"
+      ],
+      "objectID": "24799660",
+      "_highlightResult": {
+        "title": {
+          "value": "AWS forked my project and launched <em>it</em> as <em>it</em>s own service",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://twitter.com/tim_nolet/status/1317061818574082050",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "tnolet",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-10-21T14:26:39.000Z",
+      "title": "NordVPN confirms it was hacked",
+      "url": "https://techcrunch.com/2019/10/21/nordvpn-confirms-it-was-hacked/",
+      "author": "afshinmeh",
+      "points": 1368,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 399,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571667999,
+      "_tags": [
+        "story",
+        "author_afshinmeh",
+        "story_21312609"
+      ],
+      "objectID": "21312609",
+      "_highlightResult": {
+        "title": {
+          "value": "NordVPN confirms <em>it</em> was hacked",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://techcrunch.com/2019/10/21/nordvpn-confirms-<em>it</em>-was-hacked/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "afshinmeh",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-11-10T18:13:39.000Z",
+      "title": "Apple unveils M1, its first system-on-a-chip for portable Mac computers",
+      "url": "https://9to5mac.com/2020/11/10/apple-unveils-m1-its-first-system-on-a-chip-for-portable-mac-computers/",
+      "author": "runesoerensen",
+      "points": 1365,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1346,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1605032019,
+      "_tags": [
+        "story",
+        "author_runesoerensen",
+        "story_25049079"
+      ],
+      "objectID": "25049079",
+      "_highlightResult": {
+        "title": {
+          "value": "Apple unveils M1, <em>it</em>s first system-on-a-chip for portable Mac computers",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://9to5mac.com/2020/11/10/apple-unveils-m1-<em>it</em>s-first-system-on-a-chip-for-portable-mac-computers/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "runesoerensen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-02-04T19:02:12.000Z",
+      "title": "Hello Chrome, its Firefox calling",
+      "url": "https://hacks.mozilla.org/2013/02/hello-chrome-its-firefox-calling/",
+      "author": "rnyman",
+      "points": 1356,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 69,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1360004532,
+      "relevancy_score": 4436,
+      "_tags": [
+        "story",
+        "author_rnyman",
+        "story_5166229"
+      ],
+      "objectID": "5166229",
+      "_highlightResult": {
+        "title": {
+          "value": "Hello Chrome, <em>it</em>s Firefox calling",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://hacks.mozilla.org/2013/02/hello-chrome-<em>it</em>s-firefox-calling/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "rnyman",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-23T14:13:50.000Z",
+      "title": "Amazon scooped up data from its own sellers to launch competing products",
+      "url": "https://www.wsj.com/articles/amazon-scooped-up-data-from-its-own-sellers-to-launch-competing-products-11587650015",
+      "author": "benryon",
+      "points": 1350,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 691,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587651230,
+      "_tags": [
+        "story",
+        "author_benryon",
+        "story_22956182"
+      ],
+      "objectID": "22956182",
+      "_highlightResult": {
+        "title": {
+          "value": "Amazon scooped up data from <em>it</em>s own sellers to launch competing products",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "url": {
+          "value": "https://www.wsj.com/articles/amazon-scooped-up-data-from-<em>it</em>s-own-sellers-to-launch-competing-products-11587650015",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "it"
+          ]
+        },
+        "author": {
+          "value": "benryon",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 1451084,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "query": "IT",
+  "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&query=IT&tags=story",
+  "processingTimeMS": 4
+}
