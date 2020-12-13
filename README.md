@@ -1,18 +1,19 @@
-# HNFeed
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
 ## Build
+1. Please make sure you have installed the latest version of nodejs before running this application. This solution was developed with nodejs version v12.12.0
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+2. Inside the root project folder where package.json is located, run npm install to install dependencies.
+Core Dependencies include Angular 11.0.4 and PrimeNG Angular component library.
+
+3. Once all dependencies are installed in the root folder run npm start to build and launch the Angular application.
+
+4. The Single Page Application should be served on the default port of 4200 at http://localhost:4200/  
+
+
+## Using the app
+
+This app acts as a feed and query web app for the popular hacker news article aggregator. To use this web app, please navigate to http://localhost:4200/ and enter a search query which will retrieve the latest entries for that topic
+
+The two endpoints used for this are http://hn.algolia.com/api/v1/search_by_date?tags=story on initial load which will retrieve the latest stories and http://hn.algolia.com/api/v1/search?query=foo&tags=story which will retrieve the latest stories by search query.  
 
 ## Running unit tests
 
@@ -22,6 +23,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
