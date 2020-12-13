@@ -11,9 +11,14 @@
     <ng-template let-posts pTemplate="listItem">
       <div class="p-col-12">
         <div class="product-list-item">
-          <div class="product-list-detail">
-            <div class="product-name">Title: {{posts.title}}</div>
-            <div class="product-description">Author: {{posts.author}}</div>
+          <div class="product-list-detail p-grid">
+            <div class="p-col-10">
+            <div class="product-name p-col-12">Title: {{posts.title}}</div>
+              <div class="product-description p-col-6">Author: {{posts.author}}</div>
+            </div>
+            <div class="p-col-2">
+              <button pButton type="button" style="float: right; margin-top: 20px;" icon="pi pi-chevron-right" iconPos="left"></button>
+            </div>
           </div>
         </div>
       </div>
